@@ -11,6 +11,7 @@
 
 - Personal Website - [see website](https://irfansyafi.github.io)
 - Malaysia Blood Donation Telegram Bot - [see repo](https://github.com/irfansyafi/malaysia_blood_donation)
+- Monte Carlo Simulation for Extreme Value - [see repo](https://github.com/irfansyafi/eva_mc_simulation)
 - [Web Scraping of iMDB Movie Review](https://github.com/irfansyafi/imdbmoviescraping)
 - [Visualization of iMDB Movie Review](https://github.com/irfansyafi/imdbmoviesvisualization) 
 - Recycling Center using Python (In progress) - [see repo](https://github.com/irfansyafi/recycle-je)
