@@ -34,7 +34,7 @@
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)<br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfansyafi&label=Profile%20Views&color=#00A19B&style=flat" alt="irfansyafi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfansyafi&label=Profile%20Views&color=00A19B&style=flat" alt="irfansyafi" /> </p>
 
 
 <!---
