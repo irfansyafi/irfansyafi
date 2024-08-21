@@ -7,9 +7,10 @@
 
 ---
 
-## Personal Project
+## Projects
 
 - Personal Website - [see website](https://irfansyafi.github.io)
+- Ask Me Anything (Simple Python Project) - [see website](https://ask-irfan.site)
 - Malaysia Blood Donation Telegram Bot - [see repo](https://github.com/irfansyafi/malaysia_blood_donation)
 - Monte Carlo Simulation for Extreme Value Analysis - [see repo](https://github.com/irfansyafi/eva_mc_simulation)
 - Joint Probability using Chi Squared Method for Extreme Value Analysis - [see repo](https://github.com/irfansyafi/eva_jointprob)
@@ -17,7 +18,6 @@
 - [Visualization of iMDB Movie Review](https://github.com/irfansyafi/imdbmoviesvisualization) 
 - Recycling Center using Python (In progress) - [see repo](https://github.com/irfansyafi/recycle-je)
 - Discord bot and LLM (In progress) - [see repo](https://github.com/irfansyafi/discord-bot)
-
 ---
 
 ## Skills and Techs
@@ -32,7 +32,8 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)<br>
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfansyafi&label=Profile%20Views&color=00A19B&style=flat" alt="irfansyafi" /> </p>
 
