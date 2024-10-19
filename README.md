@@ -9,7 +9,7 @@
 
 ## Projects
 
-- Personal Website - [see website](https://irfansyafi.github.io)
+- Personal Website - [see website](https://www.irfansyafi.com/) <!-- This need to check the link of profile -->
 - Ask Me Anything (Simple Python Project) - [see website](https://ask-irfan.site)
 - Malaysia Blood Donation Telegram Bot - [see repo](https://github.com/irfansyafi/malaysia_blood_donation)
 - Monte Carlo Simulation for Extreme Value Analysis - [see repo](https://github.com/irfansyafi/eva_mc_simulation)
