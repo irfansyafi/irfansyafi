@@ -10,7 +10,8 @@
 ## Projects
 
 - Personal Website - [see website](https://www.irfansyafi.com/) <!-- This need to check the link of profile -->
-- Ask Me Anything (Simple Python Project) - [see website](https://ask-irfan.site)
+- Ask Me Anything (Simple Python Project) - [see website](https://ask.irfansyafi.com)
+- Metocean Monitoring System with Sensor - [see repo](https://github.com/irfansyafi/MetMonitor-WindSensor)
 - Malaysia Blood Donation Telegram Bot - [see repo](https://github.com/irfansyafi/malaysia_blood_donation)
 - Monte Carlo Simulation for Extreme Value Analysis - [see repo](https://github.com/irfansyafi/eva_mc_simulation)
 - Joint Probability using Chi Squared Method for Extreme Value Analysis - [see repo](https://github.com/irfansyafi/eva_jointprob)
