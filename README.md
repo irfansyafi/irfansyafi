@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfansyafi
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Science
-- 🌱 I’m currently learning Python, JAVA, Visual Basic .NET and C++
+- 🌱 I’m currently learning Python, Golang, and Infra stuff
 - 💻 My first language was C
 - 💞️ I’m looking to collaborate on Full Stack Developer and Artificial Intelligence related.
 - 📫 You can reach me through my email muhammadirfansyafi@gmail.com
