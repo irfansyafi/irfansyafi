@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Science
 - 🌱 I’m currently learning Python, Golang, and Infra stuff
 - 💻 My first language was C
-- 💞️ I’m looking to collaborate on Full Stack Developer and Artificial Intelligence related.
+- 💻 Currently a Data Scientist with past experience in IT Support, Data Analyst, AI Engineer and Software Engineer.
+- 💞️ I’m looking to collaborate on Infra and Artificial Intelligence related.
 - 📫 You can reach me through my email muhammadirfansyafi@gmail.com
 
 ---
